@@ -1,9 +1,11 @@
-WeeCloud
+WeeCloud + XDCC
 ========
 
 Node.js library for relaying WeeChat to a webapp
 
 Relaying with [weechat.js](https://github.com/eirikb/weechat.js)
+
+Adding plugin for searching dcc packets and starting download
 
 Usage
 ---
